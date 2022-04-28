@@ -3,4 +3,4 @@ project(OPUS_MAGNUM)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(OPUS_MAGNUM main.cpp)
+add_executable(OPUS_MAGNUM main.cpp Twektorek.hpp Twektorek.cpp Twektorek_dziedz.cpp Twektorek_dziedz.hpp)
