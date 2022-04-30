@@ -1,12 +1,15 @@
 # ninja log v5
-7	697	6729346778176596	build.ninja	a2ff755c5df00aab
+7	697	6730520967940821	build.ninja	a2ff755c5df00aab
 55	1123	6728910373787662	CMakeFiles/OPUS_MAGNUM.dir/Twektorek_dziedz.cpp.obj	78b75b8b2fe2349a
 6	968	6729279967066971	CMakeFiles/OPUS_MAGNUM.dir/main.cpp.obj	f301eff13ba9ee1c
-1130	1463	6729285683199046	OPUS_MAGNUM.exe	25d50c20adc69663
+1240	1497	6730519043796208	OPUS_MAGNUM.exe	13455f56db63c54e
 28	774	6729280181585461	CMakeFiles/OPUS_MAGNUM.dir/R29_-_Unie_i_pola_bitowe/P3_-Klasa_uniopodobna/main.cpp.obj	2a0ddf18a8e6f49f
 0	793	6729280181731082	CMakeFiles/OPUS_MAGNUM.dir/R29_-_Unie_i_pola_bitowe/P3_-Klasa_uniopodobna/Tmagazyn.cpp.obj	2585f94f5174fa1
 49	1200	6728910374649922	CMakeFiles/OPUS_MAGNUM.dir/Twektorek.cpp.obj	ef8a54815b9b5206
 38	961	6729279967015749	CMakeFiles/OPUS_MAGNUM.dir/Tmagazyn.cpp.obj	aff59867a7ecf89
 0	1123	6729285679957044	CMakeFiles/OPUS_MAGNUM.dir/R29_-_Unie_i_pola_bitowe/P4_-_Gdy_sk³adnik_unii_jest_obiektem_jakiejœ_klasy/main.cpp.obj	a8dffeb1f4006345
 1	1012	6729346893491486	CMakeFiles/OPUS_MAGNUM.dir/R29_-_Unie_i_pola_bitowe/P7_-_Unia_i_pole_bitowe_upraszczaj¹_deszyfrowanie_s³ów_danych/main.cpp.obj	15a5a1b6734186a7
-1017	1304	6729346896246181	OPUS_MAGNUM.exe	bf3b6fab041e5b06
+0	908	6730449645629101	CMakeFiles/OPUS_MAGNUM.dir/R30_-_Wyra¿enia_lambda_i_wys³anie_kodu_do_innych_funkcji/P1_-_Funkcje_orzekaj¹ce_i_obiekty_funkcyjne/main.cpp.obj	a2af0eb204c46377
+1	1259	6730460443540224	CMakeFiles/OPUS_MAGNUM.dir/R30_-_Wyra¿enia_lambda_i_wys³anie_kodu_do_innych_funkcji/P2_-_Wyra¿enie_lambda/main.cpp.obj	cd752a05b4f71f59
+1	1527	6730504586406291	CMakeFiles/OPUS_MAGNUM.dir/R30_-_Wyra¿enia_lambda_i_wys³anie_kodu_do_innych_funkcji/P3_-_Wyra¿enie_lambda_zastosowane_w_funkcji_sk³adowej/main.cpp.obj	808484e090f61b41
+1	1234	6730519041222327	CMakeFiles/OPUS_MAGNUM.dir/R30_-_Wyra¿enia_lambda_i_wys³anie_kodu_do_innych_funkcji/P4_-_Tworzenie_nazwanych_obiektów_lambda_s³owem_auto/main.cpp.obj	3d05924aa15c1d1d
