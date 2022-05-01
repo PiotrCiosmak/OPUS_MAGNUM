@@ -1,8 +1,8 @@
 # ninja log v5
-7	697	6730520967940821	build.ninja	a2ff755c5df00aab
+7	697	6731110240956284	build.ninja	a2ff755c5df00aab
 55	1123	6728910373787662	CMakeFiles/OPUS_MAGNUM.dir/Twektorek_dziedz.cpp.obj	78b75b8b2fe2349a
 6	968	6729279967066971	CMakeFiles/OPUS_MAGNUM.dir/main.cpp.obj	f301eff13ba9ee1c
-1240	1497	6730519043796208	OPUS_MAGNUM.exe	13455f56db63c54e
+1152	1433	6731109671989397	OPUS_MAGNUM.exe	fcc8d0807a831342
 28	774	6729280181585461	CMakeFiles/OPUS_MAGNUM.dir/R29_-_Unie_i_pola_bitowe/P3_-Klasa_uniopodobna/main.cpp.obj	2a0ddf18a8e6f49f
 0	793	6729280181731082	CMakeFiles/OPUS_MAGNUM.dir/R29_-_Unie_i_pola_bitowe/P3_-Klasa_uniopodobna/Tmagazyn.cpp.obj	2585f94f5174fa1
 49	1200	6728910374649922	CMakeFiles/OPUS_MAGNUM.dir/Twektorek.cpp.obj	ef8a54815b9b5206
@@ -13,3 +13,9 @@
 1	1259	6730460443540224	CMakeFiles/OPUS_MAGNUM.dir/R30_-_Wyra¿enia_lambda_i_wys³anie_kodu_do_innych_funkcji/P2_-_Wyra¿enie_lambda/main.cpp.obj	cd752a05b4f71f59
 1	1527	6730504586406291	CMakeFiles/OPUS_MAGNUM.dir/R30_-_Wyra¿enia_lambda_i_wys³anie_kodu_do_innych_funkcji/P3_-_Wyra¿enie_lambda_zastosowane_w_funkcji_sk³adowej/main.cpp.obj	808484e090f61b41
 1	1234	6730519041222327	CMakeFiles/OPUS_MAGNUM.dir/R30_-_Wyra¿enia_lambda_i_wys³anie_kodu_do_innych_funkcji/P4_-_Tworzenie_nazwanych_obiektów_lambda_s³owem_auto/main.cpp.obj	3d05924aa15c1d1d
+0	2346	6731044967235005	CMakeFiles/OPUS_MAGNUM.dir/R30_-_Wyra¿enia_lambda_i_wys³anie_kodu_do_innych_funkcji/P5_-_Tworzenie_(nazwanych)_obiektów_lambda_szablonem_function/main.cpp.obj	ef625d2b357968b4
+5	1293	6731061118033041	CMakeFiles/OPUS_MAGNUM.dir/R30_-_Wyra¿enia_lambda_i_wys³anie_kodu_do_innych_funkcji/P6_-_Stworzenie_martwych_referencji/main.cpp.obj	7f59fa61ff10ffff
+8	1362	6731069833704514	CMakeFiles/OPUS_MAGNUM.dir/R30_-_Wyra¿enia_lambda_i_wys³anie_kodu_do_innych_funkcji/P7_-_Rekurencja_przy_u¿yciu_wyra¿enia_lambda/main.cpp.obj	9c34c7f4d924f9ab
+1	1145	6731109669097100	CMakeFiles/OPUS_MAGNUM.dir/R30_-_Wyra¿enia_lambda_i_wys³anie_kodu_do_innych_funkcji/P8_-_Wyra¿enie_lambda_jako_domniemana_wartoœæ_argumentu/main.cpp.obj	1c7f12cb1e68fb14
+1	1378	6731120441503190	CMakeFiles/OPUS_MAGNUM.dir/R30_-_Wyra¿enia_lambda_i_wys³anie_kodu_do_innych_funkcji/P9_-_Rzucanie_wyj¹tków_z_wyra¿enia_lambda/main.cpp.obj	3be1a5d9f6bc6d92
+1384	1684	6731120444543590	OPUS_MAGNUM.exe	7e341d16b8c27833
