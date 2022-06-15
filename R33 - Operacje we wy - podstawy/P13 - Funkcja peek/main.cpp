@@ -16,8 +16,7 @@ int main()
         cin >> x;
         cout << "Byla to lliczba: " << x << endl;
     }
-    else
-    {
+    else{
         cin >> nazwa;
         cout << "Byla to nazwa: " << nazwa << endl;
     }
