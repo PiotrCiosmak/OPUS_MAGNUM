@@ -3,4 +3,4 @@ project(OPUS_MAGNUM)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(OPUS_MAGNU "R33 - Operacje we wy - podstawy/P15 - Funkcja write/main.cpp")
+add_executable(OPUS_MAGNU "R03 - Typy/main.cpp")
