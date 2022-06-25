@@ -3,4 +3,4 @@ project(OPUS_MAGNUM)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(OPUS_MAGNU "R03 - Typy/main.cpp")
+add_executable(OPUS_MAGNU "R34 - Operacje we wy na plikach/P02 - Funkcje do pracy na flagach błędu/main.cpp")
